@@ -16,13 +16,7 @@ class personalViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    @IBAction func changePhoto(_ sender: Any) {
-        UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any]) {
-            let image = info[.editedImage] as? UIImage
-            photoButton.setBackgroundImage(image, for: .normal)
-            
-            dismiss(animated: true, completion: nil)
-    }
+
     
     /*
     // MARK: - Navigation
