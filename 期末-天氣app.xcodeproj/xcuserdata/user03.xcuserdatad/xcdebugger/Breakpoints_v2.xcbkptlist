@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x671f;&#x672b;-&#x5929;&#x6c23;app/PhotoCollectionViewCell.swift"
+            timestampString = "582826087.08342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PhotoCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell.cellImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "&#x671f;&#x672b;-&#x5929;&#x6c23;app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user03/Desktop/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/PhotoCollectionViewCell.swift"
+                  timestampString = "582818029.712957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell.cellImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "&#x671f;&#x672b;-&#x5929;&#x6c23;app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user03/Desktop/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/PhotoCollectionViewCell.swift"
+                  timestampString = "582818029.716297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell.cellImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "&#x671f;&#x672b;-&#x5929;&#x6c23;app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user03/Desktop/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/PhotoCollectionViewCell.swift"
+                  timestampString = "582818029.718106"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell.cellImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "&#x671f;&#x672b;-&#x5929;&#x6c23;app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user03/Desktop/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/PhotoCollectionViewCell.swift"
+                  timestampString = "582818029.719903"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell.init(frame: __C.CGRect) -&gt; &#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell"
+                  moduleName = "&#x671f;&#x672b;-&#x5929;&#x6c23;app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user03/Desktop/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/PhotoCollectionViewCell.swift"
+                  timestampString = "582818029.7217309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;&#x671f;&#x672b;_&#x5929;&#x6c23;app.CollectionViewCell&gt;"
+                  moduleName = "&#x671f;&#x672b;-&#x5929;&#x6c23;app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user03/Desktop/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/%E6%9C%9F%E6%9C%AB-%E5%A4%A9%E6%B0%A3app/PhotoCollectionViewCell.swift"
+                  timestampString = "582818029.723491"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PictureWallViewController.swift"
+            timestampString = "582826087.0835429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PictureWallViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
